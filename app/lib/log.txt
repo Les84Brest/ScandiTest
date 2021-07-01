@@ -1,0 +1,174 @@
+2021-06-26 00:18:11 "2312"
+2021-06-26 11:28:28 {"weigth":" Kg"}
+2021-06-26 11:29:02 {"weigth":" Kg"}
+2021-06-26 11:30:43 {"size":"4500 Mb"}
+2021-06-26 11:32:44 Array
+(
+    [productSKU] => Win-98
+    [productName] => Win98 name
+    [productPrice] => 34
+    [productSize] => 4500
+    [productType] => dvd
+)
+
+2021-06-26 11:32:44 {"size":"4500 Mb"}
+2021-06-26 11:33:11 Array
+(
+    [productSKU] => sofa-new
+    [productName] => sofa
+    [productPrice] => 154
+    [productHeight] => 123
+    [productWidth] => 321
+    [productLength] => 60
+    [productType] => furniture
+)
+
+2021-06-26 11:33:11 furniture hears
+2021-06-26 11:33:11 
+2021-06-26 11:33:15 Array
+(
+    [productSKU] => sofa-new
+    [productName] => sofa
+    [productPrice] => 154
+    [productWeight] => 3.45
+    [productType] => book
+)
+
+2021-06-26 11:33:15 {"weigth":" Kg"}
+2021-06-26 11:37:59 Array
+(
+    [productSKU] => sofa-new
+    [productName] => sofa
+    [productPrice] => 154
+    [productWeight] => 3.45
+    [productType] => book
+)
+
+2021-06-26 11:37:59 {"weight":"3.45 Kg"}
+2021-06-26 11:38:04 Array
+(
+    [productSKU] => sofa-new
+    [productName] => sofa
+    [productPrice] => 154
+    [productHeight] => 123
+    [productWidth] => 321
+    [productLength] => 60
+    [productType] => furniture
+)
+
+2021-06-26 11:38:04 {"dimension":"123x321x60"}
+2021-06-26 11:39:07 sql SELECT * FROM products;
+2021-06-26 11:39:07 Array
+(
+)
+
+2021-06-26 11:40:31 sql SELECT * FROM products;
+2021-06-26 11:40:31 Array
+(
+)
+
+2021-06-26 11:41:12 sql DELETE FROM products WHERE id IN(:prodIds);
+2021-06-26 11:41:12 Array
+(
+    [prodIds] => 54, 55
+)
+
+2021-06-26 11:41:12 key - prodIds
+2021-06-26 11:41:12 val - 54, 55
+2021-06-26 11:41:36 Array
+(
+    [productSKU] => 43ljljt
+    [productName] => beach
+    [productPrice] => 12123
+    [productWeight] => 123
+    [productType] => book
+)
+
+2021-06-26 11:41:36 {"weight":"123 Kg"}
+2021-06-26 11:42:19 Array
+(
+    [productSKU] => 43ljljt
+    [productName] => beach
+    [productPrice] => 12123
+    [productSize] => 1245.32
+    [productType] => dvd
+)
+
+2021-06-26 11:42:19 {"size":"1245.32 Mb"}
+2021-06-26 11:42:31 Array
+(
+    [productSKU] => 43ljljt
+    [productName] => beach
+    [productPrice] => 12123
+    [productWeight] => 123.324
+    [productType] => book
+)
+
+2021-06-26 11:42:31 {"weight":"123.324 Kg"}
+2021-06-26 11:42:58 Array
+(
+    [productSKU] => Sofa
+    [productName] => sholj
+    [productPrice] => 12123
+    [productHeight] => 32
+    [productWidth] => 56
+    [productLength] => 172
+    [productType] => furniture
+)
+
+2021-06-26 11:42:58 {"dimension":"32x56x172"}
+2021-06-26 11:53:36 sql SELECT * FROM products;
+2021-06-26 11:53:36 Array
+(
+)
+
+2021-06-26 11:53:42 sql SELECT * FROM products;
+2021-06-26 11:53:42 Array
+(
+)
+
+2021-06-26 11:53:46 sql SELECT * FROM products;
+2021-06-26 11:53:46 Array
+(
+)
+
+2021-06-26 12:20:06 we are here
+2021-06-26 12:20:36 Location: http://scwebtest.lc/product/add
+2021-06-26 12:21:20 Location:  http://scwebtest.lc/product/add
+2021-06-26 12:21:22 Location:  http://scwebtest.lc/product/add
+2021-06-26 12:21:25 Location:  http://scwebtest.lc/product/add
+2021-06-26 12:24:25 Location:  http://scwebtest.lc/product/add
+2021-06-26 12:29:09 Location:  http://scwebtest.lc/product/add
+2021-06-26 12:29:15 Location:  http://scwebtest.lc/product/add
+2021-06-26 12:30:12 Location:  http://scwebtest.lc/product/add
+2021-06-26 12:30:16 Location:  http://scwebtest.lc/product/add
+2021-06-26 12:32:17 Location:  http://scwebtest.lc/product/add
+2021-06-26 12:32:20 Location:  http://scwebtest.lc/product/add
+2021-06-26 12:32:21 Location:  http://scwebtest.lc/product/add
+2021-06-26 12:32:22 Location:  http://scwebtest.lc/product/add
+2021-06-26 12:32:22 Location:  http://scwebtest.lc/product/add
+2021-06-26 12:32:53 Location:  http://scwebtest.lc/product/add
+2021-06-26 12:32:54 Location:  http://scwebtest.lc/product/add
+2021-06-26 12:33:52 Location:  http://scwebtest.lc/product/add
+2021-06-26 12:33:55 Location:  http://scwebtest.lc/product/add
+2021-06-26 12:35:16 Location:  http://scwebtest.lc/product/add
+2021-06-26 12:35:19 Location:  http://scwebtest.lc/product/add
+2021-06-26 12:37:40 Location:  http://scwebtest.lc/product/add
+2021-06-26 12:38:04 Location:  http://scwebtest.lc/product/add
+2021-06-26 12:41:20 Location:  http://scwebtest.lc/product/add
+2021-06-26 12:41:59 Location:  http://scwebtest.lc/product/add
+2021-06-26 14:50:45 Location:  https://demo1.safecontrol.by/product/add
+2021-06-26 14:52:40 Location:  https://demo1.safecontrol.by/product/add
+2021-06-26 14:55:39 Location:  https://demo1.safecontrol.by/product/add
+2021-06-26 15:04:05 Location:  https://demo1.safecontrol.by/product/add
+2021-06-26 15:20:33 Location:  https://demo1.safecontrol.by/product/add
+2021-06-26 15:24:33 Location:  http://scwebtest.lc/product/add
+2021-06-26 15:25:32 Location:  http://scwebtest.lc/product/add
+2021-06-26 15:25:58 Location:  http://scwebtest.lc/product/add
+2021-06-26 15:27:10 Location:  http://scwebtest.lc/product/add
+2021-06-26 15:27:13 Location:  http://scwebtest.lc/product/add
+2021-06-26 15:27:13 Location:  http://scwebtest.lc/product/add
+2021-06-26 15:27:13 Location:  http://scwebtest.lc/product/add
+2021-06-26 15:27:13 Location:  http://scwebtest.lc/product/add
+2021-06-26 15:29:47 Location:  http://scwebtest.lc/product/add
+2021-06-26 15:32:09 Location:  http://scwebtest.lc/product/add
